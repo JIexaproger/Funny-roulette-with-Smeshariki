@@ -3,13 +3,13 @@
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
 .utmp/
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Uu]ser[Ss]ettings/
+/Funny roulette with Smeshariki/Library/
+/Funny roulette with Smeshariki/Temp/
+/Funny roulette with Smeshariki/Obj/
+/Funny roulette with Smeshariki/Build/
+/Funny roulette with Smeshariki/Builds/
+/Funny roulette with Smeshariki/Logs/
+/Funny roulette with Smeshariki/UserSettings/
 *.log
 
 # By default unity supports Blender asset imports, *.blend1 blender files do not need to be commited to version control.
@@ -30,7 +30,8 @@
 /[Aa]ssets/Plugins/Editor/JetBrains*
 
 # Visual Studio cache directory
-.vs/
+/Funny roulette with Smeshariki/.vs/
+/Funny roulette with Smeshariki/.vscode/
 
 # Gradle cache directory
 .gradle/
@@ -83,3 +84,4 @@ crashlytics-build.properties
 /[Aa]ssets/Unity.VisualScripting.Generated/VisualScripting.Flow/UnitOptions.db.meta
 /[Aa]ssets/Unity.VisualScripting.Generated/VisualScripting.Core/Property Providers
 /[Aa]ssets/Unity.VisualScripting.Generated/VisualScripting.Core/Property Providers.meta
+/Funny roulette with Smeshariki/Library
